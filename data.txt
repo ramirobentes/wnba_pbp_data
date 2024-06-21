@@ -4,3 +4,9 @@
   description: possessions
   rows: 14253
   cols: 14
+- path: pbp2024
+  name: pbp2024
+  type: table
+  description: pbp
+  rows: 35589
+  cols: 43
