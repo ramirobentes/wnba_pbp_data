@@ -10,3 +10,9 @@
   description: pbp
   rows: 35589
   cols: 43
+- path: lineups2024
+  name: lineups2024
+  type: table
+  description: stints
+  rows: 4894
+  cols: 16
