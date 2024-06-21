@@ -1,1 +1,6 @@
-[]
+- path: possessions2024
+  name: possessions2024
+  type: table
+  description: possessions
+  rows: 14253
+  cols: 14
