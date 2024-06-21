@@ -1,0 +1,8 @@
+- Edited play-by-play with lineups during every event, possession triggers, garbage time filter etc:
+2024: https://github.com/ramirobentes/wnba_pbp_data/raw/main/pbp2024/data.rds
+
+- Lineup stats with points and number of possessions by stint:
+2024: https://github.com/ramirobentes/wnba_pbp_data/raw/main/lineups2024/data.csv
+
+- Every possession of season with details:
+2024: https://github.com/ramirobentes/wnba_pbp_data/raw/main/possessions2024/data.rds
