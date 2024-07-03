@@ -14,5 +14,5 @@
   name: lineups2024
   type: table
   description: stints
-  rows: 5404
+  rows: 6324
   cols: 16
