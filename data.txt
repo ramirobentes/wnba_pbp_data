@@ -8,7 +8,7 @@
   name: pbp2024
   type: table
   description: pbp
-  rows: 56852
+  rows: 64468
   cols: 43
 - path: lineups2024
   name: lineups2024
