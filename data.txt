@@ -2,7 +2,7 @@
   name: possessions2024
   type: table
   description: possessions
-  rows: 22915
+  rows: 26007
   cols: 14
 - path: pbp2024
   name: pbp2024
